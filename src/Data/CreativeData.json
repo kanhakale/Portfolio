@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "Title": "3-d laser cut landscape",
+        "Image": "./creative/laser.jpg",
+        "Desc":"A peaceful landscape made out of layered and laser cut 2mm mdf sheets"
+    },
+    {
+        "id":2,
+        "Title": "Wine Bottle packaging",
+        "Image": "./creative/wine.jpg",
+        "Desc":"An elegant and luxurious win bottle box made entirely by cardboard "
+    },{
+        "id":3,
+        "Title": "Relive",
+        "Image": "./creative/relive.png",
+        "Desc":"A design sytem that simulates an app which help you organize all fo your memories"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "Title": "Grade Predictor",
+        "Image": "./tech/grade.jpg",
+        "Desc":"An application that predicts your final grades based on your current performance"
+        
+    },
+    {
+        "id":2,
+        "Title": "Flappy Bird clone",
+        "Image": "./tech/flappy bird.jpg",
+        "Desc":"A flappy bird clone game made using unity with custom assets"
+        
+    },
+    {
+        "id":3,
+        "Title": "RoboSoccer Bot",
+        "Image": "./tech/robosoccer.jpg",
+        "Desc":"A bot made to compete in robosoccer events" 
+    },
+    {
+        "id":4,
+        "Title": "Angry birds clone",
+        "Image": "./tech/angry birds.jpg",
+        "Desc":"An angry birds clone game made using the java library libgdx with custom assets"
+    },
+    {
+        "id":5,
+        "Title": "Watchet",
+        "Image": "./tech/watchet.jpg",
+        "Desc":"An application that helps you find movies based on their actual popularity"
+        
+    }
+
+]

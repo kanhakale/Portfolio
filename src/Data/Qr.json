@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "Title": "Instagram",
+        "Image": "./Insta.png",
+        "url":"https://www.instagram.com/kanhaakale?utm_source=qr&igsh=M2l2dmV4bTI3MzR6"
+    },
+    {
+        "id":2,
+        "Title": "Github",
+        "Image": "./github.png",
+        "url":"https://github.com/kanhakale"
+    },
+    {
+        "id":3,
+        "Title": "Linkedin",
+        "Image": "./linkedin.png",
+        "url":"http://www.linkedin.com/in/kanha-kale-1a781b289"
+    }
+]
