@@ -27,7 +27,7 @@ const Cards = () => {
 
 const cardsData = [
   {
-    src: "./public/misc/frog.jpg",
+    src: "./misc/frog.jpg",
     alt: "Image 1",
     rotate: "6deg",
     top: "20%",
@@ -35,7 +35,7 @@ const cardsData = [
     className: "w-32 sm:w-40 md:w-56",
   },
   {
-    src: "./public/misc/flower.jpg",
+    src: "./misc/flower.jpg",
     alt: "Image 2",
     rotate: "12deg",
     top: "45%",
@@ -43,7 +43,7 @@ const cardsData = [
     className: "w-28 sm:w-36 md:w-48",
   },
   {
-    src: "./public/misc/kaali.jpg",
+    src: "./misc/kaali.jpg",
     alt: "Image 3",
     rotate: "-6deg",
     top: "15%",
@@ -51,7 +51,7 @@ const cardsData = [
     className: "w-40 sm:w-48 md:w-80",
   },
   {
-    src: "./public/misc/sidegate.jpg",
+    src: "./misc/sidegate.jpg",
     alt: "Image 4",
     rotate: "8deg",
     top: "50%",
@@ -59,7 +59,7 @@ const cardsData = [
     className: "w-36 sm:w-48 md:w-72",
   },
   {
-    src: "./public/misc/E-summit.png",
+    src: "./misc/E-summit.png",
     alt: "Image 5",
     rotate: "18deg",
     top: "25%",
@@ -67,7 +67,7 @@ const cardsData = [
     className: "w-32 sm:w-44 md:w-64",
   },
   {
-    src: "./public/misc/meraki.png",
+    src: "./misc/meraki.png",
     alt: "Image 6",
     rotate: "-3deg",
     top: "35%",
